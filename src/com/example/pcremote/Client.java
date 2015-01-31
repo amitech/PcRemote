@@ -4,7 +4,6 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-
 import android.os.AsyncTask;
 import android.app.Activity;
 import android.content.Intent;
